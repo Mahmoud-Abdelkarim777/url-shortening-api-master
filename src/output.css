@@ -573,4 +573,9 @@ video {
 }
 
 .underline {
-  text-d
+  text-decoration-line: underline;
+}
+
+.\[w\:R\FFFD-\] {
+  w: R�-;
+}
